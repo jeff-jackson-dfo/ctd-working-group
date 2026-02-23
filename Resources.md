@@ -5,7 +5,7 @@
 ### CTD Resources
 [RBR Global](https://rbr-global.com/)
 
-[SEA-BIRD Scientific](https://www.seabird.com/)
+[Sea-Bird Scientific](https://www.seabird.com/)
 
 ### Oceanographic Resources
 [GSW-Python](https://teos-10.github.io/GSW-Python/index.html)
