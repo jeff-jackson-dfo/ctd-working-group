@@ -2,20 +2,11 @@
 
 ## General Resources
 
-### CTD Resources
 [RBR Global](https://rbr-global.com/)
 
 [Sea-Bird Scientific](https://www.seabird.com/)
 
 [DFO Maritimes CTD Data Processing](https://github.com/dfo-mar-odis/ctd-processing)
-
-### Oceanographic Resources
-[GSW-Python](https://teos-10.github.io/GSW-Python/index.html)
-
-[DFO Maritimes Digital Twin of the Ocean (DTO) Viewer](https://github.com/dfo-mar-odis/dto)
-
-[DFO At-sea Reporting Template](https://github.com/dfo-mar-odis/dart)
-
 
 ## Python Resources
 
@@ -23,6 +14,13 @@
 [RBR Python Tools](https://docs-static.rbr-global.com/pyrsktools/index.html)
 
 [Sea-Bird Scientific (SBS) Community Toolkit](https://github.com/Sea-BirdScientific/seabirdscientific)
+
+### Oceanographic Resources
+[GSW-Python](https://teos-10.github.io/GSW-Python/index.html)
+
+[DFO Maritimes Digital Twin of the Ocean (DTO) Viewer](https://github.com/dfo-mar-odis/dto)
+
+[DFO At-sea Reporting Template](https://github.com/dfo-mar-odis/dart)
 
 ### Useful Python Development Tools
 [uv](https://docs.astral.sh/uv/)
